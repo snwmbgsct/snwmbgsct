@@ -35,7 +35,7 @@ You can use the website to generate badges: https://shields.io/
 - 👨🏽‍💻 I’m currently studyinging on [NUS](https://github.com/onimur/handle-path-oz);
 - 🌱 I’m currently learning Java and C++; 
 - 👯 I’m looking to collaborate on Visual Place Recognition 🤝;
-- 🤔 I’m looking for help with 3D Point Cloud Proceessing 😭;
+- 🤔 I’m looking for help with Point Cloud Proceessing 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a degree in Electrical engineering and I am pursuing my master degree of mechanical enginering ;
 - 📫 How to reach me: e0816236@u.nus.edu;
