@@ -68,12 +68,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
-<p align="center">
-<!--   <a href="http://hits.dwyl.com/snwmbgsct/snwmbgsct" target="_blank">  </a> -->
-    <img align="center" alt="HitCount" src="http://hits.dwyl.com/snwmbgsct/snwmbgsct.svg" />
-  
-    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=snwmbgsct.snwmbgsct" />
-</p>
+
 
 
 
