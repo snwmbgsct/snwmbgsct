@@ -55,14 +55,11 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
@@ -78,33 +75,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
     <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=snwmbgsct.snwmbgsct" />
 </p>
 
-## Support me
-<!-- Your support, if you have it 
-I created these images, feel free to use them.
--->
-<p align="center">
-  <!-- <a href="https://www.patreon.com/onimur" target="_blank"> -->
-    <!-- <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/> -->
-  <!-- </a> -->
-  <!-- <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=YUTBBKXR2XCPJ" target="_blank"> -->
-      <!-- <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/> -->
-  <!-- </a> -->
-  <!-- <a href="https://www.buymeacoffee.com/onimur" target="_blank"> -->
-      <!-- <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/> -->
-  <!-- </a> -->
-</p>
 
----
 
-<!-- Its main projects -->
-<p align="center">
-  <a href="https://github.com/snwmbgsct/snwmbgsct">
-    <img align="center" src="https://github.com/snwmbgsct/snwmbgsct" />
-  </a>
-  <a href="">
-    <img align="center" src="" />
-  </a>
-</p>
 
-<!-- This readme was created by snwmbgsct- https://github.com/snwmbgsct-->
 ⭐️ From [snwmbgsct](https://github.com/snwmbgsct)
