@@ -23,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
 - 👯 I’m looking to collaborate on Visual Place Recognition 🤝;
 - 🤔 I’m looking for help with **Point Cloud Proceessing**;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in electrical engineering and I am pursuing my master degree of mechanical enginering ;
+- ⚡️ Fun-Fact: I have a bachelor degree in electrical engineering and I am pursuing my master degree of mechanical enginering ;
 - 📫 How to reach me: e0816236@u.nus.edu;
 
 **Languages and Tools:** 
