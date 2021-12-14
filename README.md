@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m studying on [NUS](https://github.com/onimur/handle-path-oz) now;
+- 👨🏽‍💻 I’m studying on [NUS](https://www.nus.edu.sg) now;
 - 🌱 I’m currently learning Java and C++; 
 - 👯 I’m looking to collaborate on Visual Place Recognition 🤝;
 - 🤔 I’m looking for help with **Point Cloud Proceessing**;
