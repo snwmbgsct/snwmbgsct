@@ -19,11 +19,11 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m studying in [NUS](https://www.nus.edu.sg) now;
-- 🌱 I’m currently learning Java and C++; 
-- 👯 I’m looking to collaborate on Visual Place Recognition 🤝;
-- 🤔 I’m looking for help with **Point Cloud Proceessing**;
+<!-- - 🌱 I’m currently learning Java and C++;  -->
+- 👯 I’m looking to collaborate on Autonomous Vehicle-Prediction and Planning 🤝;
+<!-- - 🤔 I’m looking for help with **Point Cloud Proceessing**; -->
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a bachelor degree in electrical engineering and I am pursuing my master degree of mechanical engineering ;
+<!-- - ⚡️ Fun-Fact: I have a bachelor degree in electrical engineering and I am pursuing my master degree of mechanical engineering ; -->
 - 📫 How to reach me: e0816236@u.nus.edu;
 
 **Languages and Tools:** 
